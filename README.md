@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Dominik 👋
 
-<!--
-**TenDominik/tendominik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Rzeszów University of Technology (Politechnika Rzeszowska), interested in cybersecurity — red team / offensive security side.
 
-Here are some ideas to get you started:
+## Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++ (systems-level programming, Windows API)
+- Reverse engineering fundamentals
+- Red team tooling & techniques
+
+## Projects
+
+- [simple-dll-injector](https://github.com/TenDominik/simple-dll-injector) — a basic Windows DLL injector built to learn the Windows API mechanics behind process injection (`CreateRemoteThread`, `VirtualAllocEx`, `LoadLibraryW`)
+
+## Interests
+
+- Red team / offensive security
+- Low-level Windows internals
+- Building small tools to understand how things work under the hood
+
+---
+*Student, still early in the journey — this profile will grow as projects pile up.*
