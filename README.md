@@ -11,6 +11,7 @@ Computer Science student at Rzeszów University of Technology (Politechnika Rzes
 ## Projects
 
 - [simple-dll-injector](https://github.com/TenDominik/simple-dll-injector) — a basic Windows DLL injector built to learn the Windows API mechanics behind process injection (`CreateRemoteThread`, `VirtualAllocEx`, `LoadLibraryW`)
+- [simple-port-scanner](https://github.com/TenDominik/simple-port-scanner) - A simple Windows TCP port scanner, written as a learning project to understand sockets, non-blocking I/O, and `select()`.
 
 ## Interests
 
